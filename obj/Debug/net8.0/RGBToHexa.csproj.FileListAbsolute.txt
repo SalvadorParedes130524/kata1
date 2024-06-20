@@ -1,0 +1,14 @@
+C:\Workspace\kata\RGBToHexa\bin\Debug\net8.0\RGBToHexa.exe
+C:\Workspace\kata\RGBToHexa\bin\Debug\net8.0\RGBToHexa.deps.json
+C:\Workspace\kata\RGBToHexa\bin\Debug\net8.0\RGBToHexa.runtimeconfig.json
+C:\Workspace\kata\RGBToHexa\bin\Debug\net8.0\RGBToHexa.dll
+C:\Workspace\kata\RGBToHexa\bin\Debug\net8.0\RGBToHexa.pdb
+C:\Workspace\kata\RGBToHexa\obj\Debug\net8.0\RGBToHexa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\kata\RGBToHexa\obj\Debug\net8.0\RGBToHexa.AssemblyInfoInputs.cache
+C:\Workspace\kata\RGBToHexa\obj\Debug\net8.0\RGBToHexa.AssemblyInfo.cs
+C:\Workspace\kata\RGBToHexa\obj\Debug\net8.0\RGBToHexa.csproj.CoreCompileInputs.cache
+C:\Workspace\kata\RGBToHexa\obj\Debug\net8.0\RGBToHexa.dll
+C:\Workspace\kata\RGBToHexa\obj\Debug\net8.0\refint\RGBToHexa.dll
+C:\Workspace\kata\RGBToHexa\obj\Debug\net8.0\RGBToHexa.pdb
+C:\Workspace\kata\RGBToHexa\obj\Debug\net8.0\RGBToHexa.genruntimeconfig.cache
+C:\Workspace\kata\RGBToHexa\obj\Debug\net8.0\ref\RGBToHexa.dll
